@@ -1,0 +1,9 @@
+{
+  "name": "NovaSphere E-Commerce",
+  "description": "An AI-powered luxury e-commerce platform featuring visual search, search grounding, voice-activated shopping, and AI-generated product lifestyle previews.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
